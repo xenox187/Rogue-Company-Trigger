@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello,
+first of all, this is not my Cheat!
+I simply renewed it and made the gui a little better.
 
-<!--
-**xenox187/xenox187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+HOW TO USE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+F1- Start Triggerbot
+F2- Stop Triggerbot
+
+Hold right mouse button and Triggerbot should work.
+
+If you need help add me on Discord: xenox#1417
