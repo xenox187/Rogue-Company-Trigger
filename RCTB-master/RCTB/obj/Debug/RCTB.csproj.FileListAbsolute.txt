@@ -1,0 +1,12 @@
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\bin\Debug\RCTB.exe.config
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\bin\Debug\RCTB.exe
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\bin\Debug\RCTB.pdb
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.csprojAssemblyReference.cache
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.csproj.ResolveComReference.cache
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.Form1.resources
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.Properties.Resources.resources
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.csproj.GenerateResource.cache
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.csproj.CoreCompileInputs.cache
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.exe
+C:\Users\xenox\OneDrive\Desktop\RCTB-master\RCTB\obj\Debug\RCTB.pdb
